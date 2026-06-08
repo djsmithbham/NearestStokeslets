@@ -4,3 +4,5 @@ To produce all tables and figures in the manuscript, run the file MAIN_GenerateR
 
 Tested in Matlab 27th April 2017.
 
+Update: a C++ version of this project with unit tests, documentation and continuous integration is available at https://gitlab.com/djsmithbham/cnearest
+The file Comparison_with_cnearest.m is provided for comparative purposes
